@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:30 CST 2022
+testcontainers-bom-1.16.3.pom>aliyunmaven=
+testcontainers-bom-1.16.3.pom>maven-central=

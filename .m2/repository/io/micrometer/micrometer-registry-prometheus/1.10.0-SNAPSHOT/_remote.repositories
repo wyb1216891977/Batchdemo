@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:13:32 CST 2022
+micrometer-registry-prometheus-1.10.0-20220518.133834-56.jar>spring-snapshots=
+micrometer-registry-prometheus-1.10.0-20220518.133834-56.pom>spring-snapshots=
+micrometer-registry-prometheus-1.10.0-20220518.133834-56-sources.jar>spring-snapshots=

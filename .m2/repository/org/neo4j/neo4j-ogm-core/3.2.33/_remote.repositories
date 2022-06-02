@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:10:38 CST 2022
+neo4j-ogm-core-3.2.33.pom>aliyunmaven=
+neo4j-ogm-core-3.2.33.pom>maven-central=
+neo4j-ogm-core-3.2.33.jar>maven-central=
+neo4j-ogm-core-3.2.33.jar>aliyunmaven=
+neo4j-ogm-core-3.2.33-sources.jar>aliyunmaven=

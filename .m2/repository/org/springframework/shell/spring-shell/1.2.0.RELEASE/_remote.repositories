@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:15:44 CST 2022
+spring-shell-1.2.0.RELEASE-sources.jar>maven-central=
+spring-shell-1.2.0.RELEASE.jar>maven-central=
+spring-shell-1.2.0.RELEASE.pom>maven-central=

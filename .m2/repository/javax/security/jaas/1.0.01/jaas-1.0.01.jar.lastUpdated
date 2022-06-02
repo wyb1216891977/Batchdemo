@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Apr 24 15:12:10 CST 2022
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1650784330093
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.security\:jaas\:jar\:1.0.01 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer http\://repo.maven.apache.org/maven2/javax/security/jaas/1.0.01/jaas-1.0.01.jar. Error code 501, HTTPS Required

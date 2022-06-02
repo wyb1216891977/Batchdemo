@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Apr 24 15:14:01 CST 2022
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1650784441731
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact myeclipse-reports\:scriptapi\:jar\:2.5.2 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer http\://repo.maven.apache.org/maven2/myeclipse-reports/scriptapi/2.5.2/scriptapi-2.5.2.jar. Error code 501, HTTPS Required

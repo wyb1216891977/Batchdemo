@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 17:16:59 CST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653383819305
+@default-spring-releases-https\://repo.spring.io/plugins-release/.lastUpdated=1653383818915
+https\://repo.spring.io/plugins-release/.error=Could not transfer artifact org.asciidoctor\:asciidoctor-maven-plugin\:pom\:2.2.2 from/to spring-releases (https\://repo.spring.io/plugins-release)\: Access denied to https\://repo.spring.io/plugins-release/org/asciidoctor/asciidoctor-maven-plugin/2.2.2/asciidoctor-maven-plugin-2.2.2.pom. Error code 401, Unauthorized

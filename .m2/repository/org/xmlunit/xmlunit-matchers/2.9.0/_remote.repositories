@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:10:39 CST 2022
+xmlunit-matchers-2.9.0.jar>maven-central=
+xmlunit-matchers-2.9.0.jar>aliyunmaven=
+xmlunit-matchers-2.9.0-sources.jar>aliyunmaven=
+xmlunit-matchers-2.9.0.pom>maven-central=
+xmlunit-matchers-2.9.0.pom>aliyunmaven=

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:23 CST 2022
+jackson-dataformat-yaml-2.12.4.jar>maven-central=
+jackson-dataformat-yaml-2.12.4-sources.jar>maven-central=
+jackson-dataformat-yaml-2.12.4.jar>aliyunmaven=
+jackson-dataformat-yaml-2.12.4.pom>maven-central=
+jackson-dataformat-yaml-2.12.4.pom>aliyunmaven=

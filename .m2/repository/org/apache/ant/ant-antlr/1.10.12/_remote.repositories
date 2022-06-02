@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:09:41 CST 2022
+ant-antlr-1.10.12.jar>maven-central=
+ant-antlr-1.10.12.pom>aliyunmaven=
+ant-antlr-1.10.12.pom>maven-central=
+ant-antlr-1.10.12-sources.jar>aliyunmaven=
+ant-antlr-1.10.12.jar>aliyunmaven=

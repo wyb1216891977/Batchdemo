@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:36 CST 2022
+scala-library-2.13.8.jar>maven-central=
+scala-library-2.13.8.pom>maven-central=
+scala-library-2.13.8.pom>aliyunmaven=
+scala-library-2.13.8-sources.jar>maven-central=

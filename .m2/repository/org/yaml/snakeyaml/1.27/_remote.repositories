@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:23 CST 2022
+snakeyaml-1.27.pom>maven-central=
+snakeyaml-1.27.jar>aliyunmaven=
+snakeyaml-1.27.pom>aliyunmaven=
+snakeyaml-1.27.jar>maven-central=
+snakeyaml-1.27-sources.jar>maven-central=

@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Apr 24 15:11:54 CST 2022
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1650784314467
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact net.sourceforge.jexcelapi\:jxl\:jar\:2.6.8 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer http\://repo.maven.apache.org/maven2/net/sourceforge/jexcelapi/jxl/2.6.8/jxl-2.6.8.jar. Error code 501, HTTPS Required

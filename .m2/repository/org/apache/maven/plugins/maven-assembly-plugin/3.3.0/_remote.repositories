@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:01:18 CST 2022
+maven-assembly-plugin-3.3.0.pom>central=
+maven-assembly-plugin-3.3.0.pom>aliyunmaven=
+maven-assembly-plugin-3.3.0.jar>aliyunmaven=
+maven-assembly-plugin-3.3.0.jar>central=

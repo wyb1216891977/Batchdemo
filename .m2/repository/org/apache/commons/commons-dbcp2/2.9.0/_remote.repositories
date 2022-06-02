@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:09:21 CST 2022
+commons-dbcp2-2.9.0.pom>aliyunmaven=
+commons-dbcp2-2.9.0-sources.jar>aliyunmaven=
+commons-dbcp2-2.9.0.jar>aliyunmaven=
+commons-dbcp2-2.9.0.jar>maven-central=
+commons-dbcp2-2.9.0.pom>maven-central=

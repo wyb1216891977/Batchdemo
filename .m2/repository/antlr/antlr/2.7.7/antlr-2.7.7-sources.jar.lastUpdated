@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:13:36 CST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653369213749
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1653369214932
+https\://maven.aliyun.com/repository/public/.lastUpdated=1653298639228
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact antlr\:antlr\:jar\:sources\:2.7.7 from/to spring-releases (https\://repo.spring.io/libs-release)\: Access denied to https\://repo.spring.io/libs-release/antlr/antlr/2.7.7/antlr-2.7.7-sources.jar. Error code 401, Unauthorized
+https\://maven.aliyun.com/repository/public/.error=
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact antlr\:antlr\:jar\:sources\:2.7.7 from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/antlr/antlr/2.7.7/antlr-2.7.7-sources.jar. Error code 401, Unauthorized
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1653369216047

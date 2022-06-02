@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:10 CST 2022
+brave-instrumentation-http-5.13.9-sources.jar>maven-central=
+brave-instrumentation-http-5.13.9.pom>maven-central=
+brave-instrumentation-http-5.13.9.jar>aliyunmaven=
+brave-instrumentation-http-5.13.9.pom>aliyunmaven=
+brave-instrumentation-http-5.13.9.jar>maven-central=

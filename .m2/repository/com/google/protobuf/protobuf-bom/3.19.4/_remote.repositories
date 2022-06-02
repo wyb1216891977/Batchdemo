@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:10:53 CST 2022
+protobuf-bom-3.19.4.pom>maven-central=
+protobuf-bom-3.19.4.pom>aliyunmaven=

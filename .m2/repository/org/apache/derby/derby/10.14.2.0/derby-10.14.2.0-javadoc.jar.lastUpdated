@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:17:16 CST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653369434434
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1653369435544
+https\://maven.aliyun.com/repository/public/.lastUpdated=1653362775707
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.apache.derby\:derby\:jar\:javadoc\:10.14.2.0 from/to spring-releases (https\://repo.spring.io/libs-release)\: Access denied to https\://repo.spring.io/libs-release/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0-javadoc.jar. Error code 401, Unauthorized
+https\://maven.aliyun.com/repository/public/.error=
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact org.apache.derby\:derby\:jar\:javadoc\:10.14.2.0 from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0-javadoc.jar. Error code 401, Unauthorized
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1653369436649

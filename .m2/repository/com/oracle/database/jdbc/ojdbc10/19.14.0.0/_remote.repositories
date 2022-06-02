@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:11:01 CST 2022
+ojdbc10-19.14.0.0.jar>maven-central=
+ojdbc10-19.14.0.0.pom>maven-central=
+ojdbc10-19.14.0.0.jar>aliyunmaven=
+ojdbc10-19.14.0.0-sources.jar>aliyunmaven=
+ojdbc10-19.14.0.0.pom>aliyunmaven=

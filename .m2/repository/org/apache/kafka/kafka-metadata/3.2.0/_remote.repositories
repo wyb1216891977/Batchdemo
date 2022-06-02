@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:35 CST 2022
+kafka-metadata-3.2.0-sources.jar>maven-central=
+kafka-metadata-3.2.0.pom>aliyunmaven=
+kafka-metadata-3.2.0.pom>maven-central=
+kafka-metadata-3.2.0.jar>maven-central=

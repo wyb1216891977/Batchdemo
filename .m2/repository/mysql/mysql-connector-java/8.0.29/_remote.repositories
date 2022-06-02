@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 16:27:30 CST 2022
+mysql-connector-java-8.0.29.jar>central=
+mysql-connector-java-8.0.29-sources.jar>aliyunmaven=
+mysql-connector-java-8.0.29.pom>aliyunmaven=
+mysql-connector-java-8.0.29.pom>central=
+mysql-connector-java-8.0.29.jar>aliyunmaven=
+mysql-connector-java-8.0.29.jar>maven-central=
+mysql-connector-java-8.0.29.pom>maven-central=

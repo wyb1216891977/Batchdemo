@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:13 CST 2022
+opentelemetry-instrumentation-api-1.14.0-alpha.jar>maven-central=
+opentelemetry-instrumentation-api-1.14.0-alpha.jar>aliyunmaven=
+opentelemetry-instrumentation-api-1.14.0-alpha.pom>aliyunmaven=
+opentelemetry-instrumentation-api-1.14.0-alpha.pom>maven-central=
+opentelemetry-instrumentation-api-1.14.0-alpha-sources.jar>maven-central=

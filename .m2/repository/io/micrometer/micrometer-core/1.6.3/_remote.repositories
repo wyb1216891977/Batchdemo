@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:10:39 CST 2022
+micrometer-core-1.6.3.pom>maven-central=
+micrometer-core-1.6.3.pom>aliyunmaven=
+micrometer-core-1.6.3-sources.jar>aliyunmaven=
+micrometer-core-1.6.3.jar>maven-central=
+micrometer-core-1.6.3.jar>aliyunmaven=

@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Apr 24 15:14:13 CST 2022
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1650784453574
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.sun.jersey\:jersey-multipart\:jar\:1.4 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer http\://repo.maven.apache.org/maven2/com/sun/jersey/jersey-multipart/1.4/jersey-multipart-1.4.jar. Error code 501, HTTPS Required

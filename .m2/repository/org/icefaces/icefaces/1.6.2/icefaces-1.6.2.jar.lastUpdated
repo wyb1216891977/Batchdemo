@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Apr 24 15:11:38 CST 2022
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1650784298891
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.icefaces\:icefaces\:jar\:1.6.2 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer http\://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.6.2/icefaces-1.6.2.jar. Error code 501, HTTPS Required

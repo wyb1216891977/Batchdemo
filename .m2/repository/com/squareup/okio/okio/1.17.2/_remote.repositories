@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:12 CST 2022
+okio-1.17.2.jar>maven-central=
+okio-1.17.2-sources.jar>maven-central=
+okio-1.17.2.pom>aliyunmaven=
+okio-1.17.2.pom>maven-central=
+okio-1.17.2.jar>aliyunmaven=

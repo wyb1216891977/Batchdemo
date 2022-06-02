@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:10:39 CST 2022
+derby-10.14.2.0.jar>aliyunmaven=
+derby-10.14.2.0.pom>maven-central=
+derby-10.14.2.0.jar>maven-central=
+derby-10.14.2.0.pom>aliyunmaven=

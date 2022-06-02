@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:31 CST 2022
+kafka-clients-3.2.0.pom>maven-central=
+kafka-clients-3.2.0.pom>aliyunmaven=
+kafka-clients-3.2.0-sources.jar>maven-central=
+kafka-clients-3.2.0.jar>maven-central=
+kafka-clients-3.2.0-test.jar>maven-central=

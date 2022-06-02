@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:11:01 CST 2022
+jna-5.8.0.pom>aliyunmaven=
+jna-5.8.0.jar>aliyunmaven=
+jna-5.8.0-sources.jar>aliyunmaven=
+jna-5.8.0.jar>maven-central=
+jna-5.8.0.pom>maven-central=

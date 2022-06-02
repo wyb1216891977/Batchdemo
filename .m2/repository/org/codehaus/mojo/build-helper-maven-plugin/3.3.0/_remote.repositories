@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:01:14 CST 2022
+build-helper-maven-plugin-3.3.0.jar>aliyunmaven=
+build-helper-maven-plugin-3.3.0.pom>aliyunmaven=
+build-helper-maven-plugin-3.3.0.jar>central=
+build-helper-maven-plugin-3.3.0.pom>central=

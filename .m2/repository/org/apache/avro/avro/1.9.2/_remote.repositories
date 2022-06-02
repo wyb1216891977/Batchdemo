@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:10:38 CST 2022
+avro-1.9.2.pom>maven-central=
+avro-1.9.2.pom>aliyunmaven=
+avro-1.9.2.jar>maven-central=
+avro-1.9.2-sources.jar>aliyunmaven=
+avro-1.9.2.jar>aliyunmaven=

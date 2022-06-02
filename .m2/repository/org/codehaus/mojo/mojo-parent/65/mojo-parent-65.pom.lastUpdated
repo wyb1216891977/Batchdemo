@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:01:14 CST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653383817134
+@default-spring-releases-https\://repo.spring.io/plugins-release/.lastUpdated=1653383816726
+https\://maven.aliyun.com/repository/public/.lastUpdated=1653966074193
+https\://repo.spring.io/plugins-release/.error=Could not transfer artifact org.codehaus.mojo\:mojo-parent\:pom\:65 from/to spring-releases (https\://repo.spring.io/plugins-release)\: Access denied to https\://repo.spring.io/plugins-release/org/codehaus/mojo/mojo-parent/65/mojo-parent-65.pom. Error code 401, Unauthorized

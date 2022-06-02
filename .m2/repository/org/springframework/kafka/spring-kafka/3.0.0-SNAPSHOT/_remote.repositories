@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:14:13 CST 2022
+spring-kafka-3.0.0-20220519.143832-130.jar>spring-snapshots=
+spring-kafka-3.0.0-20220519.143832-130-sources.jar>spring-snapshots=
+spring-kafka-3.0.0-20220519.143832-130.pom>spring-snapshots=

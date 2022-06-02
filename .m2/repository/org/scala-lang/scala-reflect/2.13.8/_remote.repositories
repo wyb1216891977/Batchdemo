@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:37 CST 2022
+scala-reflect-2.13.8.pom>aliyunmaven=
+scala-reflect-2.13.8-sources.jar>maven-central=
+scala-reflect-2.13.8.pom>maven-central=
+scala-reflect-2.13.8.jar>maven-central=

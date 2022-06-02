@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:10:39 CST 2022
+woodstox-core-6.2.8.jar>maven-central=
+woodstox-core-6.2.8.pom>aliyunmaven=
+woodstox-core-6.2.8.jar>aliyunmaven=
+woodstox-core-6.2.8-sources.jar>aliyunmaven=
+woodstox-core-6.2.8.pom>maven-central=

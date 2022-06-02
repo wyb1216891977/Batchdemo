@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:10:39 CST 2022
+byte-buddy-agent-1.12.9.jar>aliyunmaven=
+byte-buddy-agent-1.12.9-sources.jar>aliyunmaven=
+byte-buddy-agent-1.12.9.pom>aliyunmaven=
+byte-buddy-agent-1.12.9.pom>maven-central=
+byte-buddy-agent-1.12.9.jar>maven-central=

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:11:01 CST 2022
+duct-tape-1.0.8.jar>aliyunmaven=
+duct-tape-1.0.8-sources.jar>aliyunmaven=
+duct-tape-1.0.8.pom>maven-central=
+duct-tape-1.0.8.jar>maven-central=
+duct-tape-1.0.8.pom>aliyunmaven=

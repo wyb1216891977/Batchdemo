@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:09:15 CST 2022
+commons-io-2.11.0.jar>maven-central=
+commons-io-2.11.0.pom>maven-central=
+commons-io-2.11.0-sources.jar>aliyunmaven=
+commons-io-2.11.0.jar>aliyunmaven=
+commons-io-2.11.0.pom>aliyunmaven=

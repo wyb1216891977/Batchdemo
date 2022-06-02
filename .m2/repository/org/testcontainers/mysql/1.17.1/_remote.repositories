@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:11:01 CST 2022
+mysql-1.17.1.jar>aliyunmaven=
+mysql-1.17.1.pom>maven-central=
+mysql-1.17.1-sources.jar>aliyunmaven=
+mysql-1.17.1.jar>maven-central=
+mysql-1.17.1.pom>aliyunmaven=

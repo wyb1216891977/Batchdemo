@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:15:39 CST 2022
+lucene-core-6.6.6-sources.jar>maven-central=
+lucene-core-6.6.6.pom>maven-central=
+lucene-core-6.6.6.jar>maven-central=

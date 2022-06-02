@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:20 CST 2022
+guava-31.0.1-jre-sources.jar>maven-central=
+guava-31.0.1-jre.pom>maven-central=
+guava-31.0.1-jre.jar>maven-central=
+guava-31.0.1-jre.jar>aliyunmaven=
+guava-31.0.1-jre.pom>aliyunmaven=

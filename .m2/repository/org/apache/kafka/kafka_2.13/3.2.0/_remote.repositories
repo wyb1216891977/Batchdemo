@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:36 CST 2022
+kafka_2.13-3.2.0.pom>maven-central=
+kafka_2.13-3.2.0-sources.jar>maven-central=
+kafka_2.13-3.2.0.pom>aliyunmaven=
+kafka_2.13-3.2.0-test.jar>maven-central=
+kafka_2.13-3.2.0.jar>maven-central=

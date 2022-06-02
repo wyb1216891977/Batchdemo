@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:10:38 CST 2022
+classgraph-4.8.141-sources.jar>aliyunmaven=
+classgraph-4.8.141.pom>aliyunmaven=
+classgraph-4.8.141.jar>aliyunmaven=
+classgraph-4.8.141.jar>maven-central=
+classgraph-4.8.141.pom>maven-central=

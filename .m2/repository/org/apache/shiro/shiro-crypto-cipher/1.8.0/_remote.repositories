@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:14:51 CST 2022
+shiro-crypto-cipher-1.8.0.jar>maven-central=
+shiro-crypto-cipher-1.8.0-sources.jar>maven-central=
+shiro-crypto-cipher-1.8.0.pom>maven-central=

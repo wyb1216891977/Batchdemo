@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:10:38 CST 2022
+jackson-core-2.10.2.jar>maven-central=
+jackson-core-2.10.2.pom>aliyunmaven=
+jackson-core-2.10.2-sources.jar>aliyunmaven=
+jackson-core-2.10.2.pom>maven-central=
+jackson-core-2.10.2.jar>aliyunmaven=

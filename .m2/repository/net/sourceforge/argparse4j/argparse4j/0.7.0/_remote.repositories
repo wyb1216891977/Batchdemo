@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:36 CST 2022
+argparse4j-0.7.0.jar>maven-central=
+argparse4j-0.7.0-sources.jar>maven-central=
+argparse4j-0.7.0.pom>aliyunmaven=
+argparse4j-0.7.0.pom>maven-central=

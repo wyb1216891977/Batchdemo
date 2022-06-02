@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 23 17:01:25 CST 2022
+logback-core-1.2.6-sources.jar>aliyunmaven=
+logback-core-1.2.6.jar>aliyunmaven=
+logback-core-1.2.6.pom>central=
+logback-core-1.2.6.jar>central=
+logback-core-1.2.6.pom>aliyunmaven=

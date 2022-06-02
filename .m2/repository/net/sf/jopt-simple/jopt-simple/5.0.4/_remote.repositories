@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:37 CST 2022
+jopt-simple-5.0.4.jar>maven-central=
+jopt-simple-5.0.4-sources.jar>maven-central=
+jopt-simple-5.0.4.pom>aliyunmaven=
+jopt-simple-5.0.4.pom>maven-central=

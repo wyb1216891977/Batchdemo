@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:36 CST 2022
+metrics-core-2.2.0.jar>maven-central=
+metrics-core-2.2.0-sources.jar>maven-central=
+metrics-core-2.2.0.pom>maven-central=
+metrics-core-2.2.0.pom>aliyunmaven=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:12:07 CST 2022
+micrometer-tracing-test-1.0.0-20220519.140212-61.jar>spring-snapshots=
+micrometer-tracing-test-1.0.0-20220519.140212-61-sources.jar>spring-snapshots=
+micrometer-tracing-test-1.0.0-20220519.140212-61.pom>spring-snapshots=

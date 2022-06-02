@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:14:42 CST 2022
+javax.resource-api-1.7.1.pom>maven-central=
+javax.resource-api-1.7.1.jar>maven-central=
+javax.resource-api-1.7.1-sources.jar>maven-central=

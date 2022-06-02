@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:17 CST 2022
+wavefront-sdk-java-3.0.0.jar>aliyunmaven=
+wavefront-sdk-java-3.0.0-sources.jar>maven-central=
+wavefront-sdk-java-3.0.0.pom>maven-central=
+wavefront-sdk-java-3.0.0.jar>maven-central=
+wavefront-sdk-java-3.0.0.pom>aliyunmaven=

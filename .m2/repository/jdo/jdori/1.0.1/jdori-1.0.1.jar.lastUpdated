@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Apr 24 15:12:53 CST 2022
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1650784373588
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact jdo\:jdori\:jar\:1.0.1 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer http\://repo.maven.apache.org/maven2/jdo/jdori/1.0.1/jdori-1.0.1.jar. Error code 501, HTTPS Required

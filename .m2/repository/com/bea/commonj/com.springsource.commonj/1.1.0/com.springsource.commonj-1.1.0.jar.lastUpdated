@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Apr 24 15:12:42 CST 2022
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1650784362532
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.bea.commonj\:com.springsource.commonj\:jar\:1.1.0 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer http\://repo.maven.apache.org/maven2/com/bea/commonj/com.springsource.commonj/1.1.0/com.springsource.commonj-1.1.0.jar. Error code 501, HTTPS Required

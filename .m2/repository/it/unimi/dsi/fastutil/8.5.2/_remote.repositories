@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:15:18 CST 2022
+fastutil-8.5.2.jar>maven-central=
+fastutil-8.5.2-sources.jar>maven-central=
+fastutil-8.5.2.pom>maven-central=

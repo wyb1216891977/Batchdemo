@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:39 CST 2022
+reactor-core-3.4.17.pom>maven-central=
+reactor-core-3.4.17.pom>aliyunmaven=
+reactor-core-3.4.17.jar>maven-central=
+reactor-core-3.4.17-sources.jar>maven-central=
+reactor-core-3.4.17.jar>aliyunmaven=

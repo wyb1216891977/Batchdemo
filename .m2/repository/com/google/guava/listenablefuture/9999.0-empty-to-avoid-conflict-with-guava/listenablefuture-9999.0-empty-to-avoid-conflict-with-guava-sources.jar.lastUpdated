@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:47 CST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653369181735
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1653369182909
+https\://maven.aliyun.com/repository/public/.lastUpdated=1653966047454
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact com.google.guava\:listenablefuture\:jar\:sources\:9999.0-empty-to-avoid-conflict-with-guava from/to spring-releases (https\://repo.spring.io/libs-release)\: Access denied to https\://repo.spring.io/libs-release/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava-sources.jar. Error code 401, Unauthorized
+https\://maven.aliyun.com/repository/public/.error=
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact com.google.guava\:listenablefuture\:jar\:sources\:9999.0-empty-to-avoid-conflict-with-guava from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava-sources.jar. Error code 401, Unauthorized
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1653369184022

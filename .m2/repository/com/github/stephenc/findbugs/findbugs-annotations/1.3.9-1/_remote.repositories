@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:15:28 CST 2022
+findbugs-annotations-1.3.9-1.jar>maven-central=
+findbugs-annotations-1.3.9-1.pom>maven-central=
+findbugs-annotations-1.3.9-1-sources.jar>maven-central=

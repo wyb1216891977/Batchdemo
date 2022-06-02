@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:15:54 CST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653369352254
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1653369353427
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact mx4j\:mx4j\:jar\:sources\:3.0.2 from/to spring-releases (https\://repo.spring.io/libs-release)\: Access denied to https\://repo.spring.io/libs-release/mx4j/mx4j/3.0.2/mx4j-3.0.2-sources.jar. Error code 401, Unauthorized
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact mx4j\:mx4j\:jar\:sources\:3.0.2 from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/mx4j/mx4j/3.0.2/mx4j-3.0.2-sources.jar. Error code 401, Unauthorized
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1653369354519

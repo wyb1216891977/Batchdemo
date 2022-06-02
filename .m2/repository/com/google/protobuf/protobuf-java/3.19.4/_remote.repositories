@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:11:01 CST 2022
+protobuf-java-3.19.4-sources.jar>aliyunmaven=
+protobuf-java-3.19.4.jar>aliyunmaven=
+protobuf-java-3.19.4.pom>maven-central=
+protobuf-java-3.19.4.jar>maven-central=
+protobuf-java-3.19.4.pom>aliyunmaven=

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:39 CST 2022
+mockito-inline-4.5.1.jar>maven-central=
+mockito-inline-4.5.1.jar>aliyunmaven=
+mockito-inline-4.5.1-sources.jar>maven-central=
+mockito-inline-4.5.1.pom>aliyunmaven=
+mockito-inline-4.5.1.pom>maven-central=

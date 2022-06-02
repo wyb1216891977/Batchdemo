@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:15:33 CST 2022
+geode-cq-1.14.4.jar>maven-central=
+geode-cq-1.14.4.pom>maven-central=
+geode-cq-1.14.4-sources.jar>maven-central=

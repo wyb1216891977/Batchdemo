@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:01:18 CST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1653383818197
+@default-spring-releases-https\://repo.spring.io/plugins-release/.lastUpdated=1653383817834
+https\://maven.aliyun.com/repository/public/.lastUpdated=1653966078508
+https\://repo.spring.io/plugins-release/.error=Could not transfer artifact org.apache.maven.plugins\:maven-assembly-plugin\:pom\:3.3.0 from/to spring-releases (https\://repo.spring.io/plugins-release)\: Access denied to https\://repo.spring.io/plugins-release/org/apache/maven/plugins/maven-assembly-plugin/3.3.0/maven-assembly-plugin-3.3.0.pom. Error code 401, Unauthorized

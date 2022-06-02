@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 23 17:00:22 CST 2022
+jackson-datatype-jsr310-2.12.3.jar>central=
+jackson-datatype-jsr310-2.12.3-sources.jar>aliyunmaven=
+jackson-datatype-jsr310-2.12.3.pom>aliyunmaven=
+jackson-datatype-jsr310-2.12.3.pom>central=
+jackson-datatype-jsr310-2.12.3.jar>aliyunmaven=

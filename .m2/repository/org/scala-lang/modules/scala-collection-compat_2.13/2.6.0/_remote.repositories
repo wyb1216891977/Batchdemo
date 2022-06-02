@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 31 11:00:37 CST 2022
+scala-collection-compat_2.13-2.6.0.jar>maven-central=
+scala-collection-compat_2.13-2.6.0-sources.jar>maven-central=
+scala-collection-compat_2.13-2.6.0.pom>maven-central=
+scala-collection-compat_2.13-2.6.0.pom>aliyunmaven=

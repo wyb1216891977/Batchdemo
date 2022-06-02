@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:09:26 CST 2022
+wildfly-common-1.5.1.Final.jar>maven-central=
+wildfly-common-1.5.1.Final.jar>aliyunmaven=
+wildfly-common-1.5.1.Final.pom>aliyunmaven=
+wildfly-common-1.5.1.Final.pom>maven-central=
+wildfly-common-1.5.1.Final-sources.jar>aliyunmaven=

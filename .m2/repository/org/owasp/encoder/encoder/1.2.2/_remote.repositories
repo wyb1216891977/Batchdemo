@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 13:16:05 CST 2022
+encoder-1.2.2.pom>maven-central=
+encoder-1.2.2.jar>maven-central=
+encoder-1.2.2-sources.jar>maven-central=

@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Apr 24 15:12:02 CST 2022
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1650784322319
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.jts\:jts\:jar\:1.0 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer http\://repo.maven.apache.org/maven2/javax/jts/jts/1.0/jts-1.0.jar. Error code 501, HTTPS Required
